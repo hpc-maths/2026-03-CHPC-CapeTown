@@ -1,1 +1,1 @@
-Link to the slides : https://hpc-maths.github.io/2025_09_AMR25_Cologne
+Link to the slides : https://hpc-maths.github.io/2026-03-CHPC-CapeTown
